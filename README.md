@@ -16,3 +16,5 @@ cd ad_project_team16
 ```bash
 pip install -r ./requirements.txt
 ```
+
+### 4. Откройте тетрадку - [scooter_sharing.ipynb](./scooter_sharing.ipynb)
