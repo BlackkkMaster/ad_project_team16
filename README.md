@@ -33,9 +33,9 @@ cd ad_project_team16
 pip install -r ./requirements.txt
 ```
 
-### 5. Откройте тетрадку - [scooter_sharing.ipynb](./scooter_sharing.ipynb)
+### 5. Откройте тетрадку - [kick_sharing.ipynb](./kick_sharing.ipynb)
 
-- Jupyterlab:
+- Jupyter lab:
 
 ```bash
 jupyter lab
