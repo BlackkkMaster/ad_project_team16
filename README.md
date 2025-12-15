@@ -46,3 +46,6 @@ jupyter lab
 ```bash
 jupyter notebook
 ```
+### 6. Дашборд можно посмотреть по [ссылке](https://datalens.yandex/zjryilv0oafgk)
+
+### 7. Презентация по проделанной работе [тык](<./Исследование спроса на самокаты.pptx>) 
